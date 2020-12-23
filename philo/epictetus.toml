@@ -1,0 +1,14 @@
+# This is a sample toml file representing a Maxwell post
+
+title = "Something Profound on Epictetus"
+
+[[text]]
+v = """
+    This is a text segment with some fairly profound arguments in support of Epictetus.
+"""
+
+[[text]]
+v = "This is a bit more of the above rant on Epictatus."
+
+[[audio]]
+url = "https://pyramid.media/some-audio-file.mp3"
