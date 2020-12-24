@@ -16,3 +16,6 @@ url = "https://pyramid.media/some-audio-file.mp3"
 [[resource]]
 name = """ Read Epictetus' "The Manual" [Enchiridion] """
 url = "http://classics.mit.edu/Epictetus/epicench.html"
+
+[[text]]
+v = "and finally something else... maybe an ending."
