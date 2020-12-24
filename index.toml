@@ -1,0 +1,7 @@
+# This is a toml index content
+
+rootKey = "root.toml"
+
+[[post]]
+key = "philo/epictetus"
+imp = "philo/epictetus.toml"
