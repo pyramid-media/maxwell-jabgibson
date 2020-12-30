@@ -8,7 +8,7 @@ v = """
 """
 
 [[text]]
-v = "This is a bit more of the above rant on Epictatus."
+v = "This is a bit more of the above rant on Epictetus."
 
 [[ref]]
 name = """Epictetus' "The Manual" [Enchiridion]"""
