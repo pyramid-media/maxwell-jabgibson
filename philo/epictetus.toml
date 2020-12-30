@@ -10,12 +10,13 @@ v = """
 [[text]]
 v = "This is a bit more of the above rant on Epictatus."
 
+[[ref]]
+name = """Epictetus' "The Manual" [Enchiridion]"""
+url = "http://classics.mit.edu/Epictetus/epicench.html"
+
 [[audio]]
 url = "https://pyramid.media/some-audio-file.mp3"
 
-[[resource]]
-name = """ Read Epictetus' "The Manual" [Enchiridion] """
-url = "http://classics.mit.edu/Epictetus/epicench.html"
 
 [[text]]
 v = "and finally something else... maybe an ending."
