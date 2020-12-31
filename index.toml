@@ -5,3 +5,7 @@ root = "philo/epictetus"
 [[post]]
 key = "philo/epictetus"
 imp = "philo/epictetus.toml"
+
+[[post]]
+key = "52books2021"
+imp = "52books2021/blog.toml"
