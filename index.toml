@@ -1,6 +1,6 @@
 # This is a toml index content
 
-root = "about.toml"
+root = "about"
 
 [[post]]
 key = "philo/epictetus"
