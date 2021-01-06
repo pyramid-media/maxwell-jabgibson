@@ -1,0 +1,29 @@
+title = "jabgibson.com"
+
+[[text]]
+v = """
+    On and off over the last 25 years I have been creating websites. Out of those websites, none of them have lasted
+    through the inevitable "why am I doing this?", tall-poppy like, imposter syndrome phase that accompanies most projects
+    by people with less than acceptable confidence. Confidence isn't the only culprit of a failed project though, and the
+    real crux of getting something off the ground often is profundity of the idea or even better, the profundity of the
+    application of said idea. If it doesn't resonate, than it might belong in a private journal.
+"""
+
+[[text]]
+v = """
+    So the purpose of this (blog, website, journal) is a medium of communication between me, and whomever else is interested,
+    which sometimes will be nobody. But rather than hovering over my recently posted Twitter or Facebook post waiting to see if
+    anybody cared enough to "like", "thumbs up", "retweet" or leave a comment, I can post here and leave it. Updating it as needed
+    becase in the end, I can really care less, but just because I don't care how much likes I get, it doesn't mean the
+    ideas I have or the mere obsservations I take note of are of no worth to anybody else. Over and over I find myself in
+    a conversation with somebody where I am put in the predicament of digging through my notes to find some content that
+    might help the conversation. I rather just give them a link to my website, with a keyword maybe. This of course is
+    all at the mercy of how well this project goes.
+"""
+
+[[text]]
+v = """
+    Anyways, welcome to my site, and let me know what you think. If you are a developer, or maybe just have the mind of
+    an inventor, builder, or engineer and are curious what I am doing to programatically gather up these posts I am making
+    and turning it into a website, check out my #[Maxwell] page.
+"""

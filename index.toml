@@ -1,6 +1,6 @@
 # This is a toml index content
 
-root = "philo/epictetus"
+root = "about"
 
 [[post]]
 key = "philo/epictetus"
@@ -9,3 +9,7 @@ imp = "philo/epictetus.toml"
 [[post]]
 key = "52books2021"
 imp = "52books2021/blog.toml"
+
+[[post]]
+key = "about"
+imp = "posts/about.toml"
