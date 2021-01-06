@@ -3,13 +3,9 @@
 root = "about"
 
 [[post]]
-key = "philo/epictetus"
-imp = "philo/epictetus.toml"
-
-[[post]]
-key = "52books2021"
-imp = "52books2021/blog.toml"
-
-[[post]]
 key = "about"
-imp = "posts/about.toml"
+path = "posts/about.toml"
+
+[[post]]
+key = "pyramid/maxwell"
+path = "posts/pyramid/maxwell.toml"
