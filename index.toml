@@ -12,4 +12,4 @@ imp = "52books2021/blog.toml"
 
 [[post]]
 key = "about"
-imp = "about.toml"
+imp = "posts/about.toml"
