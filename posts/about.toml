@@ -29,3 +29,11 @@ v = """
     an inventor, builder, or engineer and are curious what I am doing to programatically gather up these posts I am making
     and turning it into a website, check out my #[Maxwell] page.
 """
+
+[[image]]
+url = "https://asset.pyramid.media/maxwell/images/jabgibson_cosmic.png"
+
+[[text]]
+v = """
+    Slay not he that cannot hear, be thankful ye that hath an ear
+"""
