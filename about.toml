@@ -1,16 +1,18 @@
-title = "Enki > Maxwell"
+
+title = "jabgibson.com"
+timestamp = "2021-01-06"
 
 [[text]]
 v = """
     On and off over the last 25 years I have been creating websites. Out of those websites, none of them have lasted
     through the inevitable "why am I doing this?", tall-poppy like, imposter syndrome phase that accompanies most projects
-    by people with less than <span class="enkih1">acceptable</span> confidence. Confidence isn't the only culprit of a failed project though, and the
+    by people with less than acceptable confidence. Confidence isn't the only culprit of a failed project though, and the
     real crux of getting something off the ground often is the profundity of the idea or even better, the profundity of the
     application of said idea. If it doesn't resonate, than it might belong in a private journal.
 """
 
 [[yt]]
-v = "yWAR_DotvZs"
+v = "video 1"
 
 [[text]]
 v = """
@@ -25,7 +27,7 @@ v = """
 """
 
 [[yt]]
-v = "1q_kA5yKwFE"
+v = "video 2"
 
 [[text]]
 v = """
