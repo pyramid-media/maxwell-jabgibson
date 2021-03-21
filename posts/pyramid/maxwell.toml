@@ -1,7 +1,7 @@
 title = "Enki > Maxwell"
 
 [[text]]
-v = """
+val = """
     On and off over the last 25 years I have been creating websites. Out of those websites, none of them have lasted
     through the inevitable "why am I doing this?", tall-poppy like, imposter syndrome phase that accompanies most projects
     by people with less than <span class="enkih1">acceptable</span> confidence. Confidence isn't the only culprit of a failed project though, and the
@@ -10,10 +10,11 @@ v = """
 """
 
 [[yt]]
-v = "yWAR_DotvZs"
+val = "yWAR_DotvZs"
+title = "avocado pits video"
 
 [[text]]
-v = """
+val = """
     So the purpose of this (blog, website, journal) is a medium of communication between me, and whomever else is interested,
     which sometimes will be nobody. But rather than hovering over my recently posted Twitter or Facebook post waiting to see if
     anybody cared enough to !["like"], !["thumbs up"], !["retweet"] or ![leave a comment], I can post here and leave it. I can then just
@@ -25,10 +26,11 @@ v = """
 """
 
 [[yt]]
-v = "1q_kA5yKwFE"
+val = "1q_kA5yKwFE"
+title = "After Skool Video"
 
 [[text]]
-v = """
+val = """
     Anyways, welcome to my site, and let me know what you think. If you are a developer, or maybe just have the mind of
     an inventor, builder, or engineer and are curious what I am doing to programatically gather up these posts I am making
     and turning it into a website, check out my #[Maxwell] page.
